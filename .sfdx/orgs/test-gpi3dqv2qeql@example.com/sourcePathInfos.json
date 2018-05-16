@@ -1,0 +1,319 @@
+[
+    [
+        "C:\\sample\\Cloud Compliance\\force-app",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526484916157,
+            "changeTime": 1526484916157,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526484916157,
+            "changeTime": 1526484916157,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526485952996,
+            "changeTime": 1526485952996,
+            "contentHash": "a9e496d44eea627204375b5986ec8c0ca0d44637",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526484916157,
+            "changeTime": 1526484916157,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526485952991,
+            "changeTime": 1526485952991,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1526486254637,
+            "changeTime": 1526486254637,
+            "isWorkspace": false,
+            "contentHash": "40286f458f3a6d4402720447e689e3fb6a347bd1"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1526486254663,
+            "changeTime": 1526486254663,
+            "isWorkspace": false,
+            "contentHash": "c9d8ba038e73d4a33b7952aa24b93f90efa27d42"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1526486254649,
+            "changeTime": 1526486254649,
+            "isWorkspace": false,
+            "contentHash": "809eaae784271a6bb151a92b75b8810130b0ead7"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1526486254675,
+            "changeTime": 1526486254675,
+            "isWorkspace": false,
+            "contentHash": "cd7c4fd85f0108e43595007651fe99546eda0d01"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526485952969,
+            "changeTime": 1526485952969,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526485952969,
+            "changeTime": 1526485952969,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526486254624,
+            "changeTime": 1526486254624,
+            "isWorkspace": false,
+            "contentHash": "34795fb92e7bf2593a68ad563de39a60c06050ba"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Shiv__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Shiv__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 360,
+            "modifiedTime": 1526485952971,
+            "changeTime": 1526485952971,
+            "contentHash": "05bb9510819f0e0fcb6ff3ef728d3f3dd4cb3a69",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526486254618,
+            "changeTime": 1526486254618,
+            "isWorkspace": false,
+            "contentHash": "4110f823d7af36142876ca032d2e5d5ac998e8f3"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\shiv.page",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\shiv.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526485952963,
+            "changeTime": 1526485952963,
+            "contentHash": "408310e42d7d4095cd149468bacbe7902320e8be",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\shiv.page-meta.xml",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\shiv.page-meta.xml",
+            "isDirectory": false,
+            "size": 280,
+            "modifiedTime": 1526485952960,
+            "changeTime": 1526485952960,
+            "contentHash": "3017b5bf57a53fb433d863fbbf5401366ea6c8ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526486314568,
+            "changeTime": 1526486055379,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17743,
+            "modifiedTime": 1526486254692,
+            "changeTime": 1526486254692,
+            "isWorkspace": false,
+            "contentHash": "6aa9041a3a89e55c1985da88a07678057f8f8975"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance",
+        {
+            "sourcePath": "C:\\sample\\Cloud Compliance",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526484958839,
+            "changeTime": 1526484958839,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1526486254624,
+            "changeTime": 1526486254624,
+            "contentHash": "03e2a3f897b7b7ec0ec5112401f3cb06a26a0db1"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 172,
+            "modifiedTime": 1526486254618,
+            "changeTime": 1526486254618,
+            "contentHash": "ca975d131ca97bc000be558785fd22f3bc6a8bbb"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 283,
+            "modifiedTime": 1526486254616,
+            "changeTime": 1526486254616,
+            "contentHash": "724e145c326a3ca74095ac66e744919ab7c5f46a"
+        }
+    ]
+]
