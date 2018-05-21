@@ -77,53 +77,53 @@
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9755,
             "modifiedTime": 1526486254637,
             "changeTime": 1526486254637,
-            "contentHash": "40286f458f3a6d4402720447e689e3fb6a347bd1"
+            "contentHash": "40286f458f3a6d4402720447e689e3fb6a347bd1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9707,
             "modifiedTime": 1526486254663,
             "changeTime": 1526486254663,
-            "contentHash": "c9d8ba038e73d4a33b7952aa24b93f90efa27d42"
+            "contentHash": "c9d8ba038e73d4a33b7952aa24b93f90efa27d42",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9755,
             "modifiedTime": 1526486254649,
             "changeTime": 1526486254649,
-            "contentHash": "809eaae784271a6bb151a92b75b8810130b0ead7"
+            "contentHash": "809eaae784271a6bb151a92b75b8810130b0ead7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9707,
             "modifiedTime": 1526486254675,
             "changeTime": 1526486254675,
-            "contentHash": "cd7c4fd85f0108e43595007651fe99546eda0d01"
+            "contentHash": "cd7c4fd85f0108e43595007651fe99546eda0d01",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -159,14 +159,14 @@
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1526486254624,
             "changeTime": 1526486254624,
-            "contentHash": "34795fb92e7bf2593a68ad563de39a60c06050ba"
+            "contentHash": "34795fb92e7bf2593a68ad563de39a60c06050ba",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -192,9 +192,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1526486254618,
-            "changeTime": 1526486254618,
-            "contentHash": "4110f823d7af36142876ca032d2e5d5ac998e8f3"
+            "modifiedTime": 1526487393780,
+            "changeTime": 1526487393780,
+            "contentHash": "0bddcdd118bb0ff52653bcd2fe2d5498dc34ed86"
         }
     ],
     [
@@ -230,27 +230,27 @@
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1526486254694,
             "changeTime": 1526486254694,
-            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17743,
             "modifiedTime": 1526486254692,
             "changeTime": 1526486254692,
-            "contentHash": "6aa9041a3a89e55c1985da88a07678057f8f8975"
+            "contentHash": "6aa9041a3a89e55c1985da88a07678057f8f8975",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -271,79 +271,105 @@
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 283,
             "modifiedTime": 1526486254616,
             "changeTime": 1526486254616,
-            "contentHash": "724e145c326a3ca74095ac66e744919ab7c5f46a"
+            "contentHash": "724e145c326a3ca74095ac66e744919ab7c5f46a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\Harneet.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 172,
             "modifiedTime": 1526486254618,
             "changeTime": 1526486254618,
-            "contentHash": "ca975d131ca97bc000be558785fd22f3bc6a8bbb"
+            "contentHash": "ca975d131ca97bc000be558785fd22f3bc6a8bbb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1526486254624,
             "changeTime": 1526486254624,
-            "contentHash": "03e2a3f897b7b7ec0ec5112401f3cb06a26a0db1"
+            "contentHash": "03e2a3f897b7b7ec0ec5112401f3cb06a26a0db1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4700,
             "modifiedTime": 1526486254698,
             "changeTime": 1526486254698,
-            "contentHash": "ee23197b2fe67c0b87b4466ab66384e1984cc880"
+            "contentHash": "ee23197b2fe67c0b87b4466ab66384e1984cc880",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4704,
             "modifiedTime": 1526486254698,
             "changeTime": 1526486254698,
-            "contentHash": "8cbdf256063cd8b0d00ea73e178d87a634d695d1"
+            "contentHash": "8cbdf256063cd8b0d00ea73e178d87a634d695d1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5040,
             "modifiedTime": 1526486254698,
             "changeTime": 1526486254698,
-            "contentHash": "60cdd9722df5b2fa2cea291a91b27ba563de670c"
+            "contentHash": "60cdd9722df5b2fa2cea291a91b27ba563de670c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\HarneetRealse1.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\HarneetRealse1.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 290,
+            "modifiedTime": 1526487393770,
+            "changeTime": 1526487393770,
+            "contentHash": "98adb955290a8cb059ccb34c95fc0beb59be3efd"
+        }
+    ],
+    [
+        "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\HarneetRealse1.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sample\\Cloud Compliance\\force-app\\main\\default\\pages\\HarneetRealse1.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 179,
+            "modifiedTime": 1526487393781,
+            "changeTime": 1526487393781,
+            "contentHash": "18a15c9cd564dc0dfedf612f8650e4a1eef1d9e2"
         }
     ]
 ]
